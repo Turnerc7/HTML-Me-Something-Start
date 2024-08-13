@@ -8,8 +8,9 @@ body {
 }
 
 body {
-   main,ul,h1,h3 {
+figure,head,body,hr,footer,article,header,main,ul,h1,h3,p {
     background-color: rgb(243, 236, 194);
+    ;
    }
         background-color: rgb(96, 199, 247);
         background-size: cover;
@@ -27,8 +28,9 @@ figure {
     }
 
 
-#mainheading {
+#mainHeading {
     color: red; 
     font-size: large; 
     text-align: center;
+    font-size: 30px;
 }
